@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@using Microsoft.AspNetCore.Hosting
+@inject IHostingEnvironment Environment
+@{
+    ViewData["Title"] = "ASP.NET Core Service";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">ASP.NET Core Running Services:</h3>
+
+        <ul>
+            <li>CertProcessor API Watcher Service</li>
+            <li>CertProcessor Cache Remover Service</li>
+        </ul>
+    </div>
+    <div class="panel-body">
+        <p>This app runs as a Windows Service.</p>
+        <p>Current Environment: @Environment.EnvironmentName</p>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.csprojAssemblyReference.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.csproj.CoreCompileInputs.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.AssemblyInfoInputs.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.AssemblyInfo.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.dll.config
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.deps.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.runtimeconfig.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.runtimeconfig.dev.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\CPAPIWatchService.pdb
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\CPAPIWatchService.pdb

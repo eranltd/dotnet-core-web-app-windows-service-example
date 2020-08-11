@@ -1,0 +1,124 @@
+2019-08-12 05:12:37,727 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2019-08-12 05:12:37,745 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-08-12 05:12:39,743 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Working Perfectly.
+2019-08-12 06:12:37,734 [76] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-08-12 06:12:38,938 [76] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Working Perfectly.
+2019-11-21 04:15:20,659 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2019-11-21 04:15:20,681 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-11-21 04:15:26,778 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Working Perfectly.
+2019-11-21 04:18:32,951 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2019-11-21 04:18:32,972 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-11-21 04:18:55,769 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2019-11-21 04:18:55,789 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-11-21 04:18:58,908 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Working Perfectly.
+2019-11-21 04:23:01,540 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2019-11-21 04:23:01,561 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2019-11-21 04:23:01,562 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2019-11-21 04:23:01,568 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2019-11-21 04:23:13,453 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Working Perfectly.
+2020-02-16 04:40:39,495 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 04:40:39,519 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 04:40:39,521 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 04:40:39,537 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 04:45:17,315 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 04:45:17,337 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 04:45:17,342 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 04:45:17,351 [6] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 04:45:51,730 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 04:45:51,749 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 04:45:55,653 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 04:45:57,275 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:05:40,563 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 08:05:40,591 [9] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 08:05:43,984 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 08:05:44,001 [7] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:06:05,349 [7] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 0.5GB Cleaned UP
+2020-02-16 08:06:05,355 [7] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 08:07:20,898 [9] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.
+2020-02-16 08:08:28,221 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 08:08:28,244 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 08:09:03,919 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 08:09:03,941 [14] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:09:09,382 [14] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 480.4KB Cleaned UP
+2020-02-16 08:09:09,389 [14] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 08:35:09,322 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 08:35:09,346 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 08:35:09,346 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 08:35:09,352 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:35:15,117 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 22.9MB Cleaned UP
+2020-02-16 08:35:15,121 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 08:36:40,796 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.
+2020-02-16 08:37:57,280 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 08:37:57,301 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 08:37:57,302 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 08:37:57,308 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:38:02,308 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 4.4MB Cleaned UP
+2020-02-16 08:38:02,312 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 08:39:15,495 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.
+2020-02-16 08:48:45,221 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 08:48:45,244 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 08:48:45,244 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 08:48:45,249 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 08:48:49,771 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 18.9MB Cleaned UP
+2020-02-16 08:48:49,775 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:01:51,569 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:01:51,616 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:01:51,619 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:01:51,627 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:02:35,069 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:02:35,099 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:02:35,099 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:02:35,104 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:02:47,740 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 5.3MB Cleaned UP
+2020-02-16 09:02:47,743 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:07:46,797 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:07:46,818 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:07:46,820 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:07:46,825 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:07:53,045 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 6.7MB Cleaned UP
+2020-02-16 09:07:53,048 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:09:41,846 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.
+2020-02-16 09:21:47,085 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:21:47,107 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:21:47,108 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:21:47,132 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:21:55,089 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 6.4MB Cleaned UP
+2020-02-16 09:21:55,094 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:24:15,712 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:24:15,732 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:24:15,732 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:24:15,734 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:24:21,622 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 0.0Bytes Cleaned UP
+2020-02-16 09:24:21,627 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:35:50,792 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:35:50,815 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:35:50,817 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:35:50,829 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:35:55,733 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 10.9MB Cleaned UP
+2020-02-16 09:35:55,737 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:46:13,165 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:46:13,192 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:46:13,192 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:46:13,197 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:46:18,329 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 3.8MB Cleaned UP
+2020-02-16 09:46:18,335 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 09:48:27,506 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 09:48:27,527 [11] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 09:48:27,528 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 09:48:27,532 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 09:48:32,061 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 1.4MB Cleaned UP
+2020-02-16 09:48:32,066 [10] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 10:09:02,853 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-16 10:09:02,885 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-16 10:09:02,886 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-16 10:09:02,894 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-16 10:09:09,901 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 13.8MB Cleaned UP
+2020-02-16 10:09:09,907 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-16 10:10:09,522 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.
+2020-02-17 05:13:12,864 [1] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API Timed Background Service is starting.
+2020-02-17 05:13:12,893 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - Checking...CP API
+2020-02-17 05:13:12,894 [1] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CP CacheRemover Timed Background Service is starting.
+2020-02-17 05:13:12,899 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - Running ...CacheRemover
+2020-02-17 05:13:19,131 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - 0.9GB Cleaned UP
+2020-02-17 05:13:19,134 [9] INFO CPAPIWatchService.HostedServices.CacheRemoverHostedService - CacheRemover Done.
+2020-02-17 05:13:53,348 [10] INFO CPAPIWatchService.HostedServices.CPAPIHostedService - CP API is not Working.

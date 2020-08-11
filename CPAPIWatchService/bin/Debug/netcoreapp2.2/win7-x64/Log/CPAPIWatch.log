@@ -1,0 +1,48 @@
+2019-07-31 11:09:28,169 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 15:53:21,049 [8] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:55555/  
+2019-07-31 15:53:21,157 [8] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 110.5951ms 404 
+2019-07-31 16:22:46,726 [1] INFO CPAPIWatchService.CustomWebHostService - OnStarting method called.
+2019-07-31 16:47:53,982 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:48:05,935 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:48:05,935 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:48:06,024 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.1144ms 404 
+2019-07-31 16:48:06,025 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.1144ms 404 
+2019-07-31 16:48:10,514 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:48:10,514 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:48:10,516 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.8921ms 404 
+2019-07-31 16:48:10,516 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.8921ms 404 
+2019-07-31 16:48:48,707 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:48:48,808 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 104.5679ms 404 
+2019-07-31 16:48:53,416 [8] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Index  
+2019-07-31 16:48:53,417 [8] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.0278ms 404 
+2019-07-31 16:49:03,339 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/CPAPIWatchService  
+2019-07-31 16:49:03,340 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.3118ms 404 
+2019-07-31 16:49:27,955 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:50:29,337 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:52:09,186 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:57:45,229 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:58:00,208 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:58:00,209 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:58:00,304 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.6761ms 404 
+2019-07-31 16:58:00,304 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 96.6761ms 404 
+2019-07-31 16:58:56,882 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:58:56,882 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:58:56,884 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.9278ms 404 
+2019-07-31 16:58:56,884 [5] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.9278ms 404 
+2019-07-31 16:59:01,386 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Errpr  
+2019-07-31 16:59:01,386 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Errpr  
+2019-07-31 16:59:01,388 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.0011ms 404 
+2019-07-31 16:59:01,389 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.0011ms 404 
+2019-07-31 16:59:04,916 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Error  
+2019-07-31 16:59:04,916 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Error  
+2019-07-31 16:59:04,918 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.3657ms 404 
+2019-07-31 16:59:04,926 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.3657ms 404 
+2019-07-31 16:59:44,742 [1] INFO Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\eranp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-07-31 16:59:49,302 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Error  
+2019-07-31 16:59:49,303 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/Error  
+2019-07-31 16:59:49,394 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 92.9596ms 404 
+2019-07-31 16:59:49,394 [6] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 92.9596ms 404 
+2019-07-31 16:59:51,366 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:59:51,366 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:5050/  
+2019-07-31 16:59:51,368 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.684ms 404 
+2019-07-31 16:59:51,368 [9] INFO Microsoft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.684ms 404 

@@ -1,0 +1,68 @@
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.exe
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\app.config
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\log4net.config
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll.config
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\DataLayer_Core.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\DataLayer_Core.pdb
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csprojAssemblyReference.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csproj.CoreCompileInputs.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorAssemblyInfo.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorAssemblyInfo.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.AssemblyInfoInputs.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.AssemblyInfo.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.TagHelpers.input.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.TagHelpers.output.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorCoreGenerate.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Error.g.cshtml.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Index.g.cshtml.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorTargetAssemblyInfo.cache
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorTargetAssemblyInfo.cs
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.pdb
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csproj.CopyComplete
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.pdb
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.deps.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.runtimeconfig.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.runtimeconfig.dev.json
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.pdb
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.dll
+C:\My Projects\CPAPIWatchService\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.pdb
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.exe
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\app.config
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\log4net.config
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\appsettings.json
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll.config
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.deps.json
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.runtimeconfig.json
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.runtimeconfig.dev.json
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.pdb
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.dll
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.pdb
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\DataLayer_Core.dll
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\bin\Debug\netcoreapp2.2\win7-x64\DataLayer_Core.pdb
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csprojAssemblyReference.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csproj.CoreCompileInputs.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorAssemblyInfo.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorAssemblyInfo.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.AssemblyInfoInputs.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.AssemblyInfo.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.TagHelpers.input.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.TagHelpers.output.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorCoreGenerate.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Error.g.cshtml.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Index.g.cshtml.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorTargetAssemblyInfo.cache
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.RazorTargetAssemblyInfo.cs
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.Views.pdb
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.csproj.CopyComplete
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.dll
+C:\UTH-Projects\cpapiwatchservice\CPAPIWatchService\obj\Debug\netcoreapp2.2\win7-x64\CPAPIWatchService.pdb

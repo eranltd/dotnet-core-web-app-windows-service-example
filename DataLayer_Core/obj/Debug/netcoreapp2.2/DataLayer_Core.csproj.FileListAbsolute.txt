@@ -1,0 +1,27 @@
+C:\My Projects\JaredPortal\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.deps.json
+C:\My Projects\JaredPortal\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\My Projects\JaredPortal\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.pdb
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csproj.CoreCompileInputs.cache
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfoInputs.cache
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfo.cs
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.pdb
+C:\My Projects\JaredPortal\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csprojAssemblyReference.cache
+C:\My Projects\CPAPIWatchService\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.deps.json
+C:\My Projects\CPAPIWatchService\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\My Projects\CPAPIWatchService\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.pdb
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csproj.CoreCompileInputs.cache
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfoInputs.cache
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfo.cs
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.pdb
+C:\My Projects\CPAPIWatchService\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csprojAssemblyReference.cache
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.deps.json
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\bin\Debug\netcoreapp2.2\DataLayer_Core.pdb
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csprojAssemblyReference.cache
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.csproj.CoreCompileInputs.cache
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfoInputs.cache
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.AssemblyInfo.cs
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.dll
+C:\UTH-Projects\cpapiwatchservice\DataLayer_Core\obj\Debug\netcoreapp2.2\DataLayer_Core.pdb
